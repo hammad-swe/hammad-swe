@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Learning IOS (Swift, SwiftUI, SwiftData)<br>💬 Ask me about Web Engineering , Problem Solving, Career Growth<br>⚡ Fun fact Extrovert , Code-Centric,  Adaptive
+🔭 I’m currently Learning IOS (Swift, SwiftUI, SwiftData)<br>💬 Ask me about Software Engineering , Problem Solving, Career Growth<br>⚡ Fun fact Extrovert , Code-Centric,  Adaptive
 
 
 ## 🌐 Socials:
